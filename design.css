@@ -1,0 +1,58 @@
+div#img_design{
+	width: 100%;
+
+}
+
+div#img1 img{
+	float: left;
+}
+div#img2 img{
+	float: left;
+}
+div#img3 img{
+	float: left;
+}
+div#img4 img{
+	float: left;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+div#quote1{
+	position: absolute;
+	top: 30%;
+	left: 5%;
+	font-size: 30px;
+	padding: 30px;
+	color:white;
+}
+
+div#quote2{
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	font-size: 30px;
+	padding: 30px;
+	color:white;
+}
+
+div#quote3{
+	position: absolute;
+	top: 30%;
+	left: 56%;
+	font-size: 30px;
+	padding: 30px;
+	color:white;
+}
+
+div#quote4{
+	position: absolute;
+	top: 30%;
+	left: 76%;
+	font-size: 30px;
+	padding: 30px;
+	color:white;
+}

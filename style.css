@@ -1,0 +1,229 @@
+@font-face{
+	font-family: "myfont";
+	src:url(DancingScript-VariableFont_wght.ttf);
+}
+
+#header_logo_text{
+	font-family: "myfont";
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.clear{
+	clear: both;
+}
+
+div#header i{
+	float:left;
+}
+
+div#navbar{
+	width: 100%;
+	background-color: #795548;
+	height: 50px;
+	margin-top: 10px;
+
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div#navbar{
+	padding-left: 50px;
+	padding-top: 13px;
+}
+
+
+
+div#navbar ul li{
+	list-style: none;
+	float: left;
+}
+
+div#navbar ul li a{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 9px 30px;
+}
+
+div#navbar ul li a:hover,a.active
+{
+	background-color: #6D4C41;
+}
+
+div#slider img{
+	width:100%;
+	margin: 0 auto;
+	height: 380px;
+	object-fit: cover;
+}
+
+@font-face{
+font-family: 'Unicode';
+src:url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') format('woff');
+}
+
+div.quote{
+	font-family: "Unicode";
+	position: absolute;
+	top: 50%;
+	left: 8%;
+	font-size: 30px;
+	background-color: rgba(255,255,255,0.5);
+	padding: 30px;
+}
+
+@font-face{
+	font-family: 'shop_font';
+	src:url(RobotoSlab-VariableFont_wght.ttf);
+
+}
+
+div#our_shop{
+	font-family: "shop_font";
+	margin-left: 50px;
+	margin-top: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+div#line1{
+	border: ridge;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+div#shop img{
+	margin-top: 50px;
+	width: 200px;
+	height: 350px;
+
+}
+div#shop{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+div.float{
+	float: left;
+	top: 20px;
+}
+
+div.fl h4{
+	float: right;
+	margin-right: 416px;
+	margin-top: 50px;
+}
+
+div#fl {
+
+	margin-top: 100px;
+	margin-right: 7%;
+}
+
+div.fo p{
+	clear: both;
+}
+
+div#menu{
+	font-family: "shop_font";
+	margin-left: 50px;
+	margin-top: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+div#line2{
+	border: ridge;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+div#buy_now img{
+	width: 200px;
+	height: 150px;
+	/*padding: 5px;*/
+
+}
+
+/*div#buy_now{
+	margin-left: 15%;
+
+}
+
+div#star{
+	margin-left: 18%;
+}*/
+
+h4{
+	color: red;
+	margin-left: 5%;
+
+}
+
+h2{
+	margin-left: 5%;
+}
+
+.button{
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /*display: inline-block;*/
+  font-size: 16px;
+  /*margin: 4px 2px;*/
+  /*cursor: pointer;*/
+  width: 200px;
+}
+div#border{
+	border: groove;
+	width: 200px;
+	height: 303px;
+	margin-left: 15%;
+}
+
+div#star{
+	margin-left: 18%;
+}
+
+
+div#buy_now img{
+	width: 200px;
+	height: 150px;
+	/*padding: 5px;*/
+
+}
+ div#secborder{
+ 	border: groove;
+ 	width: 200px;
+ 	height: 304px;
+ 	float: left;
+ }
+
+ .buy_img img{
+ 	width: 200px;
+ 	height: 150px;
+
+ }
+
+ .secstar{
+ 	margin-left: 28%;
+
+ }
+
+ .button1{
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /*display: inline-block;*/
+  font-size: 16px;
+  /*margin: 4px 2px;*/
+  /*cursor: pointer;*/
+  width: 200px;
+}
+
+
